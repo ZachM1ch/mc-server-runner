@@ -1,7 +1,7 @@
 # mc-server-runner
 Windows PowerShell file to set up and run any Minecraft server Jar
 
-## How to Use:
+## How to Use
 ### First Time Setup
 - Place the ps1 file in the folder with the minecraft server jar
 - Right-click on ps1 file and select *Run with PowerShell*
