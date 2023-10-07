@@ -10,7 +10,7 @@ Windows PowerShell file to set up and run any Minecraft server Jar
 ### Opening the Server Again
 - Just run the ps1 file with PowerShell again and play as before
 
-## Useful Commands
+## Useful Console Commands
 stop
 - close the server
 
