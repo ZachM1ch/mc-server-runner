@@ -13,6 +13,7 @@ Windows PowerShell file to set up and run any Minecraft server Jar
 ## Useful Commands
 stop
 - close the server
+
 op <user>
 - grant a player admin rights
 
